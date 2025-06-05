@@ -6,10 +6,12 @@ Roulette, may take your Telegram account away
 
 ## How do I get my session?
 Just run that "session_generate.py" on your local machine.
+
 (Don't forget to set API in the environment variables.)
 
 ## 我如何获得我的session字符串？
 只需要在你自己的机子上运行一下那个“session_generate.py”就可以了。
+
 （不要忘记设置在环境变量里设置API）
 
 ## Disclaimer
@@ -23,6 +25,9 @@ Use this code at your own risk. The author accepts no responsibility for account
 
 ## 免责声明
 此项目仅供本人自用，带有实验性质。 （主要原因是我是一个废物，不配再在Telegram上了。）
+
 本代码不保证稳定性、安全性或适用于任何特定目的。请勿将其用于未经授权的 Telegram 操作、批量行为或攻击性用途。
+
 所有与 Telegram 相关的接口调用均基于其公开文档和开发者平台，使用者需自行遵守 Telegram 的服务条款和社区规范。
+
 作者对因使用本项目造成的任何数据丢失、账号封禁或其他后果概不负责。
