@@ -4,7 +4,7 @@ Roulette, may take your Telegram account away
 ## 适用于Telegram的轮盘赌
 每天运行一次，试试你的运气——如果输了，代价是你的Telegram账号
 
-## How do I get my session?
+## How do I get my session string?
 Just run that "session_generate.py" on your local machine.
 
 (Don't forget to set API in the environment variables.)
@@ -12,7 +12,7 @@ Just run that "session_generate.py" on your local machine.
 ## 我如何获得我的session字符串？
 只需要在你自己的机子上运行一下那个“session_generate.py”就可以了。
 
-（不要忘记设置在环境变量里设置API）
+（不要忘记在环境变量里设置API）
 
 ## Disclaimer
 
